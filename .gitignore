@@ -1,0 +1,10 @@
+*
+!.gitignore
+!iv_cagr_capital_compounders.py
+!dashboard_generator_v6.py
+!capital_compounders_universe.json
+!iv_results.json
+!iv_results_summary.csv
+!docs/
+!docs/index.html
+!README.md
